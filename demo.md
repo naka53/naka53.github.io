@@ -1,3 +1,6 @@
+layout: page
+title: "Demo"
+permalink: /demo
 ---
 __Advertisement :)__
 
